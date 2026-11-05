@@ -10,6 +10,6 @@ MECANICA = "Misiones e insignias"
 
 # Dirección pública de la aplicación desplegada.
 # Ejemplo: "https://plataforma-ludica-abcd.onrender.com"
-URL_PUBLICA = ""
+URL_PUBLICA = "https://plataforma-ludica-p33k.onrender.com"
 
 VERSION = "0.1.0"

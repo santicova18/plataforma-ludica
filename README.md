@@ -4,7 +4,7 @@ Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con 
 
 - **Aprendiz:** Santiago Nadin Coronado Vasquez
 - **Curso y mecánica:** Lectura y Misiones e insignias
-- **Aplicación publicada:** (complete con la URL de Render)
+- **Aplicación publicada:** https://plataforma-ludica-p33k.onrender.com
 
 ## Ejecutar en su equipo
 
