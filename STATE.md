@@ -1,17 +1,12 @@
-# STATE.md
-
-Estado del proyecto. Léalo al iniciar cada sesión de trabajo y actualícelo al cerrarla.
-
 ## Estado actual
+Repositorio publicado en GitHub con el CI en verde.
+Página de inicio, /salud y /docs funcionando en https://plataforma-ludica-p33k.onrender.com
 
-Plantilla creada y desplegada. Página de inicio, /salud y /docs en funcionamiento.
-
+.
 ## Decisiones
-
 | Fecha | Decisión | Motivo |
 | --- | --- | --- |
-|  |  |  |
-
+| 2026-11-10 plantilla del curso con FastAPI | Es el stack definido para el
+proyecto |
 ## Siguiente paso
-
-(complete)
+Agregar el endpoint /api/version con su prueba.

@@ -13,6 +13,6 @@ Me comprometo a cumplir las siguientes reglas durante el desarrollo de este proy
 | --- | --- |
 | (complete) | (complete) |
 
-**Nombre:** (complete)
+**Nombre:** Santiago Nadin Coronado Vasquez
 
 **Fecha:** (complete)
